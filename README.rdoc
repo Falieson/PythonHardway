@@ -1,0 +1,2 @@
+Starting with
+http://learnpythonthehardway.org/book/ex12.html
