@@ -1,3 +1,5 @@
+Working through the learn python the hardway book to get up to speed on Python while starting to tackle Django as well
+
 Starting with
 http://learnpythonthehardway.org/book/ex12.html
 - Skipping ex19.py, I understand scoping
